@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+   <style>
+        header{background: #F6F;}
+		
+        body section article hgroup h1 {
+	font-family: "Comic Sans MS", cursive;
+	color: #C0F;
+	
+}
+        body {
+	background-image: url(xcxcvx.jpg);	margin:20px auto;
+}
+
+  section{border:5px solid #ccc; border-radius: 10px; padding:10px 22px;};
+  
+  body{text-align:center; }
+  
+
+} 
+  
+  div{
+	background-color: #666;
+	border:1px solid #999;
+
+}
+
+
+   .textos{
+	background-color: #CCC;
+	width:700px;
+	margin:7px 150px;
+	border-radius: 10px;
+	float: left;
+
+}
+
+
+  .aside{
+	  background:#CCC;
+	  width:270px;
+	  border: 1px solid #CCC;
+	  float:right ;
+	  margin:100px 10px;
+	  border-radius: 15px}
+	  
+  .header{
+	background: bottom #000;
+	border-radius: 10px;
+	width:1050px;
+	margin:20px auto;
+	padding:5px;
+	text-align: center; font-style: oblique; color: #F9C;}
+	
+
+.footer{text-align:center; 
+        clear: both;
+		border-radius: 10px
+		}
+.menu{background:#CCC; padding: 1px 1px; border-radius: 10px;
+	width:1050px; margin:20px auto;}
+.menu li{ 
+list-style: none;
+border: 1px #666;
+padding: 5px;
+font: bold 14px arial;
+display:inline-block;}
+
+article{ background: #FFF;
+          border: 3px #FFF;
+          padding:20px;
+		  margin-bottom:15px;
+		  border-radius: 11px;}
+
+        </style>
